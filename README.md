@@ -50,6 +50,11 @@ Open to collaboration and discussions about smart contract security.
 🧙‍♂️ *“The journey is long, but so is the magic”*
 
 ---
+## 👤 About Me
+
+Former **Game Developer** (Unity/C#) | **IT Project Manager** | **Crypto Community Leader** (2K+ members)
+
+Now pivoting to **Smart Contract Security** because I believe Global opportunity > local limitations
 
 ## 🌐 Connect With Me
 - 🐦 X (Twitter): **[@gandalf_tg18](https://x.com/gandalf_tg18)**
