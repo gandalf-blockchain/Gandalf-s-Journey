@@ -33,6 +33,19 @@ All of my progress, notes, and projects will be shared here on GitHub.</p>
 
 ---
 
+## 🧪 Active Learning Projects (Foundry)
+Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & Security journey.
+
+- 🔨 **Foundry – Simple Storage**  
+  Professional Solidity workflow (tests, scripts, deployment)  
+  👉 https://github.com/gandalf-blockchain/foundry-simple-storage
+
+- 🔨 **Foundry – Fund Me** *(upcoming)*  
+  Decentralized crowdfunding contract with price feeds & owner controls
+
+- 🎰 **Foundry – Smart Contract Lottery** *(upcoming)*  
+  Verifiable randomness, automation, and security-focused design
+
 ## 📈 Daily Progress (Twitter/X)
 I share my daily learning progress, notes, and coding journey here:  
 👉 **https://x.com/gandalf_tg18**
