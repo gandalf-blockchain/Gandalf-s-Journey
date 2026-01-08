@@ -41,7 +41,8 @@ Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & S
   👉 https://github.com/gandalf-blockchain/foundry-simple-storage
 
 - 🔨 **Foundry – Fund Me** *(upcoming)*  
-  Decentralized crowdfunding contract with price feeds & owner controls
+  Decentralized crowdfunding contract with price feeds & owner controls.
+  
   👉 https://github.com/gandalf-blockchain/foundry-fund-me
 
 - 🎰 **Foundry – Smart Contract Lottery** *(upcoming)*  
