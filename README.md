@@ -25,14 +25,6 @@ All of my progress, notes, and projects will be shared here on GitHub.</p>
 
 ---
 
-## 📂 Public Projects (Soon)
-- Solidity fundamentals exercises  
-- Smart contract patterns  
-- Gas optimization practice  
-- CTF writeups  
-
----
-
 ## 🧪 Active Learning Projects (Foundry)
 Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & Security journey.
 
@@ -40,7 +32,7 @@ Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & S
   Professional Solidity workflow (tests, scripts, deployment)  
   👉 https://github.com/gandalf-blockchain/foundry-simple-storage
 
-- 🔨 **Foundry – Fund Me** *(upcoming)*  
+- 🔨 **Foundry – Fund Me**  
   Decentralized crowdfunding contract with price feeds & owner controls.
   
   👉 https://github.com/gandalf-blockchain/foundry-fund-me
@@ -50,7 +42,7 @@ Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & S
 
 ## 📈 Daily Progress (Twitter/X)
 I share my daily learning progress, notes, and coding journey here:  
-👉 **https://x.com/gandalf_tg18**
+👉 **https://x.com/gandalfbuilder**
 
 ---
 
@@ -72,7 +64,7 @@ Former **Game Developer** (Unity/C#) | **IT Project Manager** | **Crypto Communi
 Now pivoting to **Smart Contract Security** because I believe Global opportunity > local limitations
 
 ## 🌐 Connect With Me
-- 🐦 X (Twitter): **[@gandalf_tg18](https://x.com/gandalf_tg18)**
+- 🐦 X (Twitter): **[@gandalfbuilder](https://x.com/gandalfbuilder)**
 
 ---
 
