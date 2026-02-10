@@ -21,7 +21,6 @@ All of my progress, notes, and projects will be shared here on GitHub.</p>
 - Finish **Cyfrin Updraft Solidity Path**  
 - Build smart contract mini-projects  
 - Start practicing CTFs (Ethernaut, Damn Vulnerable DeFi)  
-- Learn auditing basics  
 
 ---
 
