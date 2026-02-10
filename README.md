@@ -67,7 +67,7 @@ Now pivoting to **Smart Contract Security** because I believe Global opportunity
 
 ## 🌐 Connect With Me
 - 🐦 X (Twitter): **[@gandalfbuilder](https://x.com/gandalfbuilder)**
-- 💬 Discord: gandalf_builder  
+- 💬 Discord: **[gandalf_builder](https://discord.com/users/1013741518416252959)**
 
 ---
 
