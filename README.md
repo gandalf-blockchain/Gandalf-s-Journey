@@ -56,10 +56,8 @@ I share my daily learning progress, notes, and coding journey here:
 
 Open to collaboration and discussions about smart contract security.
 
-🧙‍♂️ *“Security is not magic — but understanding it makes you a wizard.”*  
 🧙‍♂️ *“Building Real Magic In Blockchain”*  
 🧙‍♂️ *“Code. Magic. Decentralization”*  
-🧙‍♂️ *“The journey is long, but so is the magic”*
 
 ---
 ## 👤 About Me
@@ -70,6 +68,7 @@ Now pivoting to **Smart Contract Security** because I believe Global opportunity
 
 ## 🌐 Connect With Me
 - 🐦 X (Twitter): **[@gandalfbuilder](https://x.com/gandalfbuilder)**
+- 💬 Discord: gandalf_builder  
 
 ---
 
