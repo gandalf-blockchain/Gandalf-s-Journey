@@ -37,6 +37,11 @@ Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & S
   
   👉 https://github.com/gandalf-blockchain/foundry-fund-me
 
+  - 🔨 **Foundry – Fund Me Frontend**  
+  A minimal frontend interface for interacting with the Fund Me smart contract using browser-based Web3 technologies.
+  
+  👉 https://github.com/gandalf-blockchain/fund-me-frontend
+
 - 🎰 **Foundry – Smart Contract Lottery** *(upcoming)*  
   Verifiable randomness, automation, and security-focused design
 
