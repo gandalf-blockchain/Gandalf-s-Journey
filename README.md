@@ -1,12 +1,32 @@
-<h1 align="left">⚡🧙‍♂️ Hi, I'm <b>Gandalf</b></h1>
-<p align="left"><b>Smart Contract Developer • Web3 Security Researcher (in progress)</b></p>
-
-<p align="left">I'm currently learning EVM-based development and smart contract security.  
-All of my progress, notes, and projects will be shared here on GitHub.</p>
+<h1 align="left">GandalfTheBuilder</h1>
+<p align="left"><b>Smart Contract Security Researcher • Independent Auditor</b></p>
+<p align="left">
+Specialized in EVM smart contract security. I find vulnerabilities, build proof-of-concepts, and help protocols ship safer code.
+</p>
 
 ---
 
-## 🚀 Tech Stack I'm Focusing On
+## Security Work
+
+- **Bug Bounty & Audit Contests** — Active on Code4rena, Sherlock, HackenProof, Immunefi
+- **Independent Security Research** — Private audits for EVM-based protocols
+- **Focus areas:** Access control, signature validation, reentrancy, upgrade patterns, economic attacks, bridge security
+
+---
+
+## Recent Contests & Bounties
+
+| Protocol | Platform | Scope | Status |
+|---|---|---|---|
+| Whitechain Bridge | HackenProof | Bridge (Solidity) | Submitted |
+| Folks Finance Staking | Immunefi | Staking (Solidity) | Researched |
+| Intuition Protocol V2 | Code4rena | DeFi (Solidity) | Submitted |
+| Limit Break AMM | Code4rena | AMM (Solidity) | Completed |
+
+---
+
+## Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
@@ -17,58 +37,29 @@ All of my progress, notes, and projects will be shared here on GitHub.</p>
 
 ---
 
-## 📘 Current Roadmap
-- Finish **Cyfrin Updraft Solidity Path**  
-- Build smart contract mini-projects  
-- Start practicing CTFs (Ethernaut, Damn Vulnerable DeFi)  
+## Projects
+
+-  **[audit-journey](https://github.com/gandalf-blockchain/audit-journey)** — Notes, findings, and methodology from active security research
+-  **[foundry-fund-me](https://github.com/gandalf-blockchain/foundry-fund-me)** — Decentralized crowdfunding contract with price feeds & owner controls
+-  **[foundry-simple-storage](https://github.com/gandalf-blockchain/foundry-simple-storage)** — Professional Solidity workflow (tests, scripts, deployment)
 
 ---
 
-## 🧪 Active Learning Projects (Foundry)
-Projects built using **Foundry (Forge, Anvil, Cast)** as part of my Solidity & Security journey.
+## Background
 
-- 🔨 **Foundry – Simple Storage**  
-  Professional Solidity workflow (tests, scripts, deployment)  
-  👉 https://github.com/gandalf-blockchain/foundry-simple-storage
+Former **Game Developer** (Unity/C#) · **IT Project Manager** · **Crypto Community Builder** (2K+ members)
 
-- 🔨 **Foundry – Fund Me**  
-  Decentralized crowdfunding contract with price feeds & owner controls.
-  
-  👉 https://github.com/gandalf-blockchain/foundry-fund-me
-
-  - 🔨 **Foundry – Fund Me Frontend**  
-  A minimal frontend interface for interacting with the Fund Me smart contract using browser-based Web3 technologies.
-  
-  👉 https://github.com/gandalf-blockchain/fund-me-frontend
-
-- 🎰 **Foundry – Smart Contract Lottery** *(upcoming)*  
-  Verifiable randomness, automation, and security-focused design
-
-## 📈 Daily Progress (Twitter/X)
-I share my daily learning progress, notes, and coding journey here:  
-👉 **https://x.com/gandalfbuilder**
+Moved into smart contract security after experiencing a real exploit firsthand — that experience is what drives the work.
 
 ---
 
-## 📬 Contact
-📩 **gandalfblockchain@gmail.com**
+## Connect
 
-Open to collaboration and discussions about smart contract security.
-
-🧙‍♂️ *“Building Real Magic In Blockchain”*  
-🧙‍♂️ *“Code. Magic. Decentralization”*  
-
----
-## 👤 About Me
-
-Former **Game Developer** (Unity/C#) | **IT Project Manager** | **Crypto Community Leader** (2K+ members)
-
-Now pivoting to **Smart Contract Security** because I believe Global opportunity > local limitations
-
-## 🌐 Connect With Me
 - 🐦 X (Twitter): **[@gandalfbuilder](https://x.com/gandalfbuilder)**
+- 🏢 ForgeAudit: *forgeaudit.com (coming soon)*
 - 💬 Discord: **[gandalf_builder](https://discord.com/users/1013741518416252959)**
+- 📩 **gandalfblockchain@gmail.com**
 
 ---
 
-<p align="left">Thanks for stopping by!<br>More updates coming soon 🚀</p>
+*"The best auditors don't just read code. They think like attackers."*
