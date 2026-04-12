@@ -14,16 +14,6 @@ Specialized in EVM smart contract security. I find vulnerabilities, build proof-
 
 ---
 
-## Recent Contests & Bounties
-
-| Protocol | Platform | Scope | Status |
-|---|---|---|---|
-| Whitechain Bridge | HackenProof | Bridge (Solidity) | Submitted |
-| Folks Finance Staking | Immunefi | Staking (Solidity) | Researched |
-| Intuition Protocol V2 | Code4rena | DeFi (Solidity) | Submitted |
-| Limit Break AMM | Code4rena | AMM (Solidity) | Completed |
-
----
 
 ## Tech Stack
 
