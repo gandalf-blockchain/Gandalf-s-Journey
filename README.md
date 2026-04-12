@@ -51,5 +51,3 @@ Moved into smart contract security after experiencing a real exploit firsthand â
 - ğŸ“© **gandalfblockchain@gmail.com**
 
 ---
-
-*"The best auditors don't just read code. They think like attackers."*
